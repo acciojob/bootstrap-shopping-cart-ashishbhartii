@@ -2,6 +2,9 @@
 body {
     background-color: #F6F6F5;
 }
+.product-details>h3>a{
+	text-decoration:none;
+}
 
 .container {
     width: 100%;
